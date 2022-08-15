@@ -23,6 +23,12 @@ Si, Puedes probarlo en linea haciendo click [aqui](https://carlosorellana00.gith
 ## Capturas de Pantallas
  vistas de ejemplo
 
+## ¿Como puedo probar el funcionamiento del Sitio?
+En la parte superior de la pantalla aparecen las categorias, al seleccionar uan categoria, se filtran los alimentos disponibles en el menu segun su categoria.
+
+Ejemplo: al presionar "Almuerzo", aparecen todos los Almuerzos disponibles en el Menu.
+de igual forma, al seleccionar "Todo" se ven todas las opciones disponibles en el Menu.
+
 <div align="center">
   <a href="https://carlosorellana00.github.io/Menu-Restaurante/" rel="noopener">
   <img src="./docs/img/img1.jpg" alt="Screenshot 5x5" width="300"></a>
